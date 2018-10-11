@@ -1,0 +1,8 @@
+/*
+ * settings.gradle on JadwalSholatHarian
+ * Developed by Muhammad Utsman on 10/11/18 8:26 AM
+ * Last modified 10/11/18 8:07 AM
+ * Copyright (c) 2018 kucingapes
+ */
+
+include ':app'
