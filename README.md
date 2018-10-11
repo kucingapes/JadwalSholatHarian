@@ -5,5 +5,5 @@ Design with Model View Presenter (MVP)
 
 
 ### Komposisi
-- API: [muslimsalat.com](muslimsalat.com)
+- API: [muslimsalat.com](http://muslimsalat.com/)
 - Network: [Fast Android Networking](https://github.com/amitshekhariitbhu/Fast-Android-Networking)
